@@ -1,0 +1,243 @@
+blogBaji 
+kittyParty
+DynamicMultiplicationTable2 
+ammaOf 
+someone5
+{   
+    :) InterfaceFeild
+    khali method1();
+
+
+  :) Interface Static Method
+    chillKro
+    digitDidi
+    staticInt1
+    (
+    digitDidi
+    DT5
+    )
+    {
+    apHoAo
+    ( 
+    
+    digitDidi 
+    i1 = 1 ; i1 <= 5 ; i1++
+    )
+    {
+    agar
+    (
+        i1 % 2 == 0
+        )
+        {
+    digitDidi
+    a1=5
+    ;
+    } 
+    magar 
+    {
+        digitDidi
+        a2=7
+        ;
+}
+}   
+yeLo
+value4; 
+}
+}
+
+
+blogBaji 
+channel
+ClassName3
+{ 
+
+:)MainMethod
+blogBaji
+chillKro
+khali
+main
+(
+betaDidi[] 
+args)
+{ 
+} 
+
+:)Method
+blogBaji
+digitDidi
+methodName1
+(
+
+) 
+{ 
+yeLo
+value4; 
+} 
+
+:)Constructor
+ConstructorName1
+() 
+{
+  digitDidi choice1=9;
+  digitDidi
+  hi2
+  =
+  a1
+  ;
+
+  pointyDidi[]
+  hi2
+  = {2,5.7,'a'};
+
+yeh
+.
+hhsdf1
+=
+hssdf1;
+
+yeh.hhsdf1++;
+
+
+
+
+idassignn132.
+  b3
+  .
+  c4
+  .
+  fn3()=
+  b3
+  .
+  c4
+  .
+  fn3();
+        
+        Ao {
+            
+            dekhoBaji (choice1) {
+                yaTo 1:
+                    betaDidi k2
+                    =
+                    "jjjj"
+                    ;
+                    rukBehn
+                    ;
+                yaTo 2:
+                    betaDidi k3="jjjj";
+                    rukBehn;
+                yaTo 3:
+                     betaDidi l~5="jjjj";
+                    rukBehn;
+                warna:
+                betaDidi  hhsdf~9="jjjj";
+                
+                    
+            }
+
+            
+        }
+        Ghumo
+        (
+          hhsdf~9
+          !=3
+
+         
+
+          )
+        
+}
+
+:)Method
+blogBaji
+digitDidi
+methodName1
+() 
+{ 
+yeLo
+value4; 
+} 
+
+:)Final Feilds
+pakka
+digitDidi
+y4
+=
+20
+;
+
+
+blogBaji 
+channel
+ClassName3
+{ 
+ 
+
+:)Method
+blogBaji
+digitDidi
+methodName1
+(
+
+) 
+{ 
+yeLo
+value4; 
+} 
+
+:)Constructor
+ConstructorName1
+() 
+{
+  digitDidi choice1=9;
+  digitDidi
+  hi2
+  =
+  a1
+  ;
+
+  pointyDidi[]
+  hi2
+  = {2,5.7,'a'};
+}
+
+}
+
+}
+
+
+ 
+channel
+ClassName3
+{ 
+ 
+
+:)Method
+blogBaji
+digitDidi
+methodName1
+(
+
+) 
+{ 
+yeLo
+value4; 
+} 
+
+:)Constructor
+ConstructorName1
+() 
+{
+  digitDidi choice1=9;
+  digitDidi
+  hi2
+  =
+  a1
+  ;
+
+  pointyDidi[]
+  hi2
+  = {2,5.7,'a'};
+}
+}
+
+$
