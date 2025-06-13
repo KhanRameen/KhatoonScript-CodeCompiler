@@ -1,0 +1,113 @@
+:)interface Implementing another Interface
+blogBaji kittyParty DynamicMultiplicationTable2 ammaOf someone5
+{   
+    :) InterfaceFeild
+    khali method1();
+
+
+  :) Interface Static Method
+    chillKro digitDidi staticInt1 (digitDidi DT5){
+    
+      :)Loop
+      apHoAo(digitDidi i1 = 1 ; i1 <= 5 ; i1++) 
+      {
+        :)if-Else
+          agar(i1 % 2 == 0)
+          {
+            digitDidi a1=5;
+          } 
+          magar 
+          {
+            digitDidi a2=7; }} 
+    :)return
+      yeLo value4; 
+  }
+}
+
+
+:)Main-Class
+
+blogBaji channel ClassName3 { 
+
+  :)MainMethod
+    blogBaji chillKro khali main(betaDidi[] args)
+    { 
+      :)Do-While
+      Ao {
+            :)SwitchCase
+            dekhoBaji (choice1) {
+                yaTo 1:
+                    betaDidi k2 = "jjjj" ;
+                    rukBehn;
+                yaTo 2:
+                    betaDidi k3="jjjj";
+                    rukBehn;
+                yaTo 3:
+                    betaDidi l~5="jjjj";
+                    rukBehn;
+                warna:
+                betaDidi  hhsdf~9="jjjj";                    
+            }            
+        }
+        Ghumo(hhsdf~9 != 3)          
+      } 
+
+  :)Method Returning Object Array
+    objectID~6[] methodName1(){
+      yeLo value4; } 
+
+  :)Constructor
+    ConstructorName1(){
+    
+    :)Array-Object Declaration
+    digitDidi[] hi2 =  nayi digitDidi[5];  
+
+    :)Array Declaration
+    pointyDidi[] hi2 = {2,5.7,'a'};  
+        
+}
+
+  :)Method
+    blogBaji digitDidi[] methodName1(){ 
+      yeLo value4; 
+    } 
+
+  :)Final Feilds
+    pakka digitDidi y4 = 20;
+
+  :)Nested-Class
+blogBaji channel ClassName3
+      { 
+  
+      :)Constructor
+      ConstructorName1(){ 
+        :)super()
+        maharani();
+        
+        :)this.id
+        yeh.h12=a1.fn4().b2;
+      }
+      
+      :)Method
+          blogBaji digitDidi methodName1(){ 
+            yeLo value4; 
+          }
+      }
+
+}
+
+
+:)MultiClass 
+channel ClassName3 ammaOf ClassName2 kitty Interface3
+{ 
+  :)Constructor
+      ConstructorName1(){    
+      }
+      
+    :)Method
+          methodName1(){ 
+            :)Void Return: No return keyword Support 
+          }
+}
+
+$
